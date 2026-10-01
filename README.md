@@ -59,4 +59,4 @@ Utilisez les parenthèses pour grouper vos clauses et définir des priorités co
 *Ex: `(($x r_isa pays) ET ($x r_lieu Europe)) OU ($x r_isa ville)`*
 
 ---
-© 2026 - Projet TER WIDO - Mohamed TEDJINI & Maurice DJOBO
+© 2026 - Projet TER WIDO - Dangué Sacko, Mohamed TEDJINI & Maurice DJOBO
